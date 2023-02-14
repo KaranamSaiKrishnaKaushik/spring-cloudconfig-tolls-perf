@@ -1,0 +1,3 @@
+spring:
+  cloud:
+    application-name: localhost     
